@@ -47,6 +47,7 @@ Axios: Promise-based HTTP client for making API requests.
 ### Project Structure
 The project structure is organized as follows:
 
+```bash
 project-directory/
 ├── public/
 │   └── index.html
