@@ -1,0 +1,15 @@
+.error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .error-text {
+    font-size: 1.5em;
+    color: #ff6347;
+    padding: 1em;
+    border: 2px solid #ff6347;
+    border-radius: 5px;
+  }
+  

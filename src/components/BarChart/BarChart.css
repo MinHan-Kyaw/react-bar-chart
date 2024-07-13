@@ -1,0 +1,14 @@
+.bar-chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  max-width: 1280px;
+}
+
+.bar-chart {
+max-width: 1280px;
+  width: 100%;
+}
